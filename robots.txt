@@ -1,0 +1,3 @@
+Sitemap: https://pamelaazzi.ca/sitemap.xml
+
+User-agent: *

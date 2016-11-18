@@ -1,0 +1,15 @@
+# humanstxt.org
+
+# TEAM
+
+Designer & Developer: Pamela Azzi <pamelaazzi@designs.com>
+Site: http://pamelaazzi.ca
+Github: https://github.com/pamelaazzi
+Location: Ottawa, Canada
+
+# TECHNOLOGY
+
+## Software
+
+- Atom
+- Github
